@@ -85,4 +85,4 @@ With that being said there are many things I do want to add into the modificatio
 ***
 
 ### Long term plans
-- Community suggestions are welcome and will expand features. ()
+- Community suggestions are welcome and will expand features. ([Request Here](https://github.com/northwesttrees-gaming/Advanced-AI/discussions/categories/ideas))
