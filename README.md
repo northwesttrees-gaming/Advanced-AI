@@ -4,4 +4,4 @@ The modification uses entity NBT tags to control the movement of the entity allo
 
 | Resources | | | | |
 | --- | --- | --- | --- | --- |
-| 📚 [AAI Wiki](https://github.com/northwesttrees-gaming/Advanced-AI/wiki) | 💡 [Share Feedback](https://github.com/northwesttrees-gaming/Advanced-AI/discussions/categories/ideas) | 📊 [Project]() | 📆 [Milestone]() | 🐛 [Report Issue](https://github.com/northwesttrees-gaming/Advanced-AI/discussions/categories/report-issue) | 📝 [Development](https://github.com/northwesttrees-gaming/Advanced-AI/issues) |
+| 📚 [AAI Wiki](https://github.com/northwesttrees-gaming/Advanced-AI/wiki) | 💡 [Share Feedback](https://github.com/northwesttrees-gaming/Advanced-AI/discussions/categories/ideas) | 📊 [Project]() | 📆 [Milestone](https://github.com/northwesttrees-gaming/Advanced-AI/milestones) | 🐛 [Report Issue](https://github.com/northwesttrees-gaming/Advanced-AI/discussions/categories/report-issue) | 📝 [Development](https://github.com/northwesttrees-gaming/Advanced-AI/issues) |
