@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/47284617/220188732-455a7560-4a50-4540-8409-27f269230101.png)
-
                      GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
