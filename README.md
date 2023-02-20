@@ -2,6 +2,20 @@
 AAI is a MCreator mod that other MCreator mods can use and possibly coded mods to set up advanced pathfinding and fatures though a simple command.
 The modification uses entity NBT tags to control the movement of the entity allowing for searching for target blocks then pathfind toward the target.
 
+***
+
+# FAQ
+### When will it be released?
+At the moment there is no release date, we can say it will be after MCreator 2023.1 is released though but it falls heavily on development. I don't really have a date to give just that 2023.1 will have features we need for pathfinding.
+
+### Will it support Minecraft 1.x.x?
+At the moment we will be supporting 1.18.2 and 1.19.2 but this might chnage come MCreator 2023.1
+
+### Will it support fabric?
+NBT variables are required for some of the features which are ___forge only___ features so the odds of a fabric version or any other platform is unlikely.
+
+***
+
 # Sites and Pages
 ## 📚 AAI Wiki
 The Wiki tab here on this repository offers a good number of documentation on the modification, we are updating it as we go!
