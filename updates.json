@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/northwesttrees-gaming/Advanced-AI/wiki/Releases",
+  "1.18.2": {
+    "1.0.0": "- Added aai command\n- Added break block action\n- Added place block action\n- Added operator tool command\n- Added debug mode to make it easier to troubleshoot issues."
+  },
+  "promos": {
+    "1.18.2-latest": "1.0.0",
+    "1.18.2-recommended": "1.0.0"
+  }
+}
